@@ -1,3 +1,4 @@
 Name : Fernando     
 Age : 25
 Favorite colour : Green 
+Time : all 
